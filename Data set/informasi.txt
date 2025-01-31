@@ -1,0 +1,17 @@
+https://katalog.data.go.id/dataset/?tags=SURAT+MASUK+2022&res_format=XLSX&organization=kabupaten-karanganyar
+
+1900, 1920, 1940, 1960, 1980, 2000, 2020
+
+file_path = 'Gabungan_Data.xlsx'
+
+
+Someone has entered an incorrect password for this account too many times. To help parotect you, we've temporarily locked account-please try again later.
+
+The field name you entered does not follow Microsoft Access object-naming rules. If you pasted the name from another application, try pressing ESC and typing the name again.
+
+For more information about naming objects, click Help
+
+There is no primary key defined
+
+Although a primary key isn't required, it's highly recommended. A table must have a primary for you to define a relationship between this table and other tables in the database. Do you want to create a primary key now?
+
